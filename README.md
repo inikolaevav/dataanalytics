@@ -1,5 +1,6 @@
 # data_analytics
 Здесь представлен проект по анализу данных - анализ поездок в Uber. Файл будет обновляться.
+При наличии проблем с отображением .ipynb файла можно открыть через - https://nbviewer.org/github/inikolaevav/dataanalytics/blob/main/df_uber.ipynb
 #
 В df - df_an_scatter есть следующие столбцы:
 - id_trips - id поездки
